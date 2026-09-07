@@ -1,0 +1,4 @@
+Testsuite: com.devops.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 sec
+
+Testcase: testMessage took 0.002 sec
